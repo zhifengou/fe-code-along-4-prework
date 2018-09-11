@@ -71,6 +71,9 @@ figcaption {
   color: red;
 }
 /*Layout*/
+*{
+  box-sizing: border-box;
+}
 .wrapper{
   width: 960px;
   margin:0 auto;
