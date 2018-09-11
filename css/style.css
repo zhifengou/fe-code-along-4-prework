@@ -105,3 +105,8 @@ figcaption {
 .first{
   margin-left: 0%
 }
+
+/*media*/
+img,video,audio{
+  max-width: 100%;
+}
