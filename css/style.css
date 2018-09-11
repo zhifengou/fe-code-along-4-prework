@@ -110,3 +110,9 @@ figcaption {
 img,video,audio{
   max-width: 100%;
 }
+
+/*sections*/
+section{
+  padding:20px;
+  margin-bottom:px;
+}
